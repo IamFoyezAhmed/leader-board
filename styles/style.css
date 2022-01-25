@@ -1,0 +1,88 @@
+body{
+    background-color:#F3F1FF !important; }
+nav img{
+    width: 40.42px;
+}
+.navbar-brand{
+    margin-left: 280px;
+}
+#navbarText{
+    margin-right: 289px;
+}
+
+
+.second-body{
+    height: 560px;
+    width: 700px;
+    left: 0px;
+   
+    border-radius: 5px;
+    
+background-color: white;
+margin-top: 30px;
+}
+.body-items img{
+    width: 40.42px;
+}
+
+
+ h5.p-3{
+    color: #562EFF;
+}
+.underline{
+    height: 2px;
+    width: 650px;
+    background-color: #E5E5E5;
+    border-radius: 50px;
+}
+.top-blog img{
+  width: 117px;
+}
+.credit{
+    font-size: 13px;
+}
+.by{
+    color: gray;
+}
+.credit-name{
+    color: #562EFF
+}
+.top-blog-p{
+   padding-left: 10px;
+   padding-right: 30px;
+}
+.footer-section{
+    height: 350px;
+    width: 700px;
+    left: 0px;
+   
+    border-radius: 5px;
+    
+background-color: white;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.footer-section img{
+    width: 150px;
+}
+.small-name{
+   color: #ED6B4F;
+
+}
+.footer-icon img{
+  width: 12px;
+}
+.footer-mark{
+    color: gray;
+    font-size: 10px;
+}
+.footer-time{
+    
+    margin-left: 100px;
+    
+    color: tomato;
+}
+.footer-box{
+    box-shadow: rgb(230, 223, 223) 2px 2px 6px;
+    border-radius: 30px;
+}
